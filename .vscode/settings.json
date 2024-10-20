@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'Geist Mono'",
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 14
+}
